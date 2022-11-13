@@ -7,7 +7,7 @@
 * Úroveň: mierne pokročilý
 * Odporúčané kolaboračné nástroje na prácu v tíme: Mural, Jamboard, Miro, Microsoft Word a PowerPoint v OneDrive, Google Workspace
 
-##🔥 Sylabus/Čo nás čaká a neminie...
+## 🔥 Sylabus/Čo nás čaká a neminie...
 
 1.	Úvod do online marketingových nástrojov, aplikácií - Prehľad aplikácií a Google nástroje
 1.	Manažment projektov a marketingu - Jira
