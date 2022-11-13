@@ -43,7 +43,7 @@
 * **40 bodov** záverečné hodnotenie
   *  Skúška – písomná, online test 
  
-## 🛠️ Online marketingov Nástroje 
+## 🛠️ Online Marketingové Nástroje 
 1.	Google Ads
 2.	Google Analytics
 3.	Google Play
