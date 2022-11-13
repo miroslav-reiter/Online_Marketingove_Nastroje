@@ -7,7 +7,7 @@
 * Úroveň: mierne pokročilý
 * Odporúčané kolaboračné nástroje na prácu v tíme: Mural, Jamboard, Miro, Microsoft Word a PowerPoint v OneDrive, Google Workspace
 
-## Sylabus/Čo nás čaká a neminie...
+##🔥 Sylabus/Čo nás čaká a neminie...
 
 1.	Úvod do online marketingových nástrojov, aplikácií - Prehľad aplikácií a Google nástroje
 1.	Manažment projektov a marketingu - Jira
@@ -22,7 +22,7 @@
 1.	Mobilný marketing - Google Play, Chrome Store, Apple Store, Steam, Epic
 1.	Umelá inteligencia (AI) a Strojové učenie (ML)
 
-## Výsledky vzdelávania
+##👨‍🏫 Výsledky vzdelávania
 * Získať prehľad v online marketingových nástrojov a aplikáciach vrátane ich efektívneho používania
 * Využívať odborné znalosti v praxi
 * Zdokonaliť sa v tímovej spolupráci a prezentovaní
@@ -34,7 +34,7 @@
 * Naučiť sa myslieť a konať ekonomicky
 * Pripraviť sa na budúcu prácu alebo podnikanie v oblasti manažmentu, marketingu a reklamy
 
-## 📈 YouTube video záznamy z cvičení Playlist
+##🥇 📈 YouTube video záznamy z cvičení Playlist
 [YouTube kanál IT Academy](https://www.youtube.com/watch?v=ZHoo9CnRdLU&list=PLIu_ZdHo7Pk-1KewAghM54Pi2h4uRG3YZ)
 
 ## Podmienky na absolvovanie predmetu
@@ -42,3 +42,21 @@
   * **Aktívna účasť** 12 bodov, (v prípade neospravedlnenej neúčasti alebo nepripravenosti na cvičenie (seminár) strata 10%)
 * **40 bodov** záverečné hodnotenie
   *  Skúška – písomná, online test 
+ 
+## 🛠️ Online marketingov Nástroje 
+1.	Google Ads
+2.	Google Analytics
+3.	Google Play
+4.	Google Trends
+5.	Chrome Store
+6.	Similarweb
+7.	GitHub
+8.	Copy.ai
+9.	Hubspot
+10.	Social Blade
+11.	Hootsuite
+12.	Campaign URL Builder
+13.	Studio YouTube
+14.	Canva
+15.	Xmind
+
