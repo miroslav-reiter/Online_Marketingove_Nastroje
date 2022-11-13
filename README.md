@@ -22,7 +22,7 @@
 1.	Mobilný marketing - Google Play, Chrome Store, Apple Store, Steam, Epic
 1.	Umelá inteligencia (AI) a Strojové učenie (ML)
 
-##👨‍🏫 Výsledky vzdelávania
+## 👨‍🏫 Výsledky vzdelávania
 * Získať prehľad v online marketingových nástrojov a aplikáciach vrátane ich efektívneho používania
 * Využívať odborné znalosti v praxi
 * Zdokonaliť sa v tímovej spolupráci a prezentovaní
@@ -34,10 +34,10 @@
 * Naučiť sa myslieť a konať ekonomicky
 * Pripraviť sa na budúcu prácu alebo podnikanie v oblasti manažmentu, marketingu a reklamy
 
-##🥇 📈 YouTube video záznamy z cvičení Playlist
+## 📈 YouTube video záznamy z cvičení Playlist
 [YouTube kanál IT Academy](https://www.youtube.com/watch?v=ZHoo9CnRdLU&list=PLIu_ZdHo7Pk-1KewAghM54Pi2h4uRG3YZ)
 
-## Podmienky na absolvovanie predmetu
+## 🥇 Podmienky na absolvovanie predmetu
 * **60 bodov** formou **tímovej práce** v podobe **semestrálneho projektu**, 10x10 bodov -> 1 bod = 1 % zo 48 bodov
   * **Aktívna účasť** 12 bodov, (v prípade neospravedlnenej neúčasti alebo nepripravenosti na cvičenie (seminár) strata 10%)
 * **40 bodov** záverečné hodnotenie
