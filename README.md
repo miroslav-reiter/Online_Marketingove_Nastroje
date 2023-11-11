@@ -41,7 +41,16 @@
 * **60 bodov** formou **tímovej práce** v podobe **semestrálneho projektu**, 10x10 bodov -> 1 bod = 1 % zo 48 bodov
   * **Aktívna účasť** 12 bodov, (v prípade neospravedlnenej neúčasti alebo nepripravenosti na cvičenie (seminár) strata 10%)
 * **40 bodov** záverečné hodnotenie
-  *  Skúška – písomná, online test 
+  *  Skúška – písomná, online test
+
+## 🏆 Ako a Čo hodnotím v odovzdanom Projekte?
+Krátka odpoveď: **Všetko**.
+
+Dlhšia odpoveď:
+1. Splnenie povinných náležitostí.
+1. Obsah, forma a kvalita prezentácie.
+1. Pripravenosť a odprezentovanie/prednes.
+1. Pridaná hodnota a prínosy projektu.
  
 ## 🛠️ Online Marketingové Nástroje 
 1.	Google Ads
