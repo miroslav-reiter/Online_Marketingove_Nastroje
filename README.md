@@ -1,7 +1,7 @@
 # 🧰 Online Marketingové Nástroje a Aplikácie
 
 * Prednášky Online marketingové nástroj a aplikácie
-* Univerzita Komenského v Bratislave Fakulta managementu UK FM 2022
+* Univerzita Komenského v Bratislave Fakulta managementu UK FM 2024
 * Prednášajúci: PhDr. Ing. Mgr. et Mgr. et Mgr. et Mgr. Miroslav Reiter, DiS., MBA, MPA, MSC, DBA, Ing. Paed. IGIP 
 * Kontakt: miroslav.reiter@it-academy.sk | miroslav.reiter@fm.uniba.sk 
 * Úroveň: mierne pokročilý
