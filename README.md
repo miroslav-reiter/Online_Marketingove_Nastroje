@@ -39,7 +39,7 @@
 
 ## 🥇 Podmienky na absolvovanie predmetu
 * **80 bodov** formou **tímovej práce** v podobe **semestrálneho projektu**
-* **20 bodov** Získanie certifikácie 2023 
+* **20 bodov** Získanie certifikácie v roku k online marketingovým nástrojom 2024 
 
 ## 🏆 Ako a Čo hodnotím v odovzdanom Projekte?
 Krátka odpoveď: **Všetko**.
